@@ -1,0 +1,8 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8587812.2281,4661787.748300001,0,-1.7976931348623157e+308]},"properties":{"Name":"Pamacocack","Type":"Ordinary house","Current":"Mattawoman Natural Environment Area","Community":"Piscataway"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8584152.2334,4667807.3895,0,-1.7976931348623157e+308]},"properties":{"Name":"Cinquaoteck","Type":"Ordinary house","Current":"Chapman State Park","Community":"Piscataway"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8590757.7641,4681692.844499998,0,-1.7976931348623157e+308]},"properties":{"Name":"Tauxenent","Type":"King's house","Current":"Fort Belvoir","Community":"Piscataway"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8577413.4854,4677912.8618,0,-1.7976931348623157e+308]},"properties":{"Name":"Moyaons","Type":"King's house","Current":"Piscataway","Community":"Piscataway"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8579021.0301,4689977.196900003,0,-1.7976931348623157e+308]},"properties":{"Name":"Assaomeck","Type":"Ordinary house","Current":"Belle Haven","Community":"Piscataway"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8583705.2679,4678959.129000001,0,-1.7976931348623157e+308]},"properties":{"Name":"Namassingakent","Type":"Ordinary house","Current":"Mount Vernon","Community":"Piscataway"}}
+]}
